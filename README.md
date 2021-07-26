@@ -1,2 +1,4 @@
 # MacOSFont
-All MacOS fonts are here you Can go to the readme To install them.
+All MacOS fonts are here you Can install Them on windows MacOS and more.
+
+Download the archived file here:
